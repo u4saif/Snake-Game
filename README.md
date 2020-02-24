@@ -1,2 +1,2 @@
 # Snake-Game
-Snake Game with JS+HTML
+Creating very intresting snake game with JavaScript and HTML only. 
